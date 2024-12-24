@@ -1,5 +1,7 @@
 # push_swap
 
+![](push_swap.gif)
+
 Algorithm project in which we must sort a given list of random numbers using a limited set of instructions, with the goal of achieving the lowest possible number of actions.
 
 ## About the project
